@@ -1,0 +1,12 @@
+# GOOGLE FREE VOICE - 100% FREE, no payment
+# gTTS = 100% free, no key
+# google-cloud-texttospeech = FREE 1M chars/month = 20 videos free = human quality
+edge-tts==6.1.10
+moviepy==1.0.3
+Pillow==10.4.0
+requests==2.31.0
+gtts==2.5.1
+google-cloud-texttospeech==2.21.0
+google-api-python-client==2.143.0
+google-auth-oauthlib==1.2.1
+google-auth-httplib2==0.2.0
